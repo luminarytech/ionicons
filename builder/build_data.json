@@ -1,5 +1,5 @@
 {
-  "build_hash": "671840e8e5615c8e1a08b981ad8aac9a",
+  "build_hash": "6069a5d1ea28570a776bcf3af23cecf0",
   "prefix": "rc-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -35,6 +35,10 @@
     {
       "code": "0xf107",
       "name": "hiking"
+    },
+    {
+      "code": "0xf108",
+      "name": "hiking2"
     }
   ]
 }
