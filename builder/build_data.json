@@ -1,5 +1,5 @@
 {
-  "build_hash": "c3f01c09bf406a4c3f2e47fa19096581",
+  "build_hash": "4939afa75712c5564248f1a110a74f97",
   "prefix": "rc-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -10,7 +10,7 @@
     },
     {
       "code": "0xf102",
-      "name": "dumbell1"
+      "name": "dumbell2"
     }
   ]
 }
