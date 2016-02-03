@@ -11,7 +11,8 @@
 .#{$ionicons-prefix}dumbell3:before,
 .#{$ionicons-prefix}hiking:before,
 .#{$ionicons-prefix}hiking2:before,
-.#{$ionicons-prefix}hikingnew:before
+.#{$ionicons-prefix}hikingnew:before,
+.#{$ionicons-prefix}hikingnew2:before
 {
   @extend .ion;
 }
@@ -25,3 +26,4 @@
 .#{$ionicons-prefix}hiking:before { content: $ionicon-var-hiking; }
 .#{$ionicons-prefix}hiking2:before { content: $ionicon-var-hiking2; }
 .#{$ionicons-prefix}hikingnew:before { content: $ionicon-var-hikingnew; }
+.#{$ionicons-prefix}hikingnew2:before { content: $ionicon-var-hikingnew2; }
