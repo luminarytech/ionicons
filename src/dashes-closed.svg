@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="35px" height="32px" viewBox="0 0 35 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>dashes-closed</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="dashes-closed" sketch:type="MSArtboardGroup" stroke="#7EB6C2" fill="#7EB6C2">
+            <g id="Oval-91-+-Oval-91-Copy-+-Oval-91-Copy-2" sketch:type="MSLayerGroup" transform="translate(3.000000, 15.000000)">
+                <path d="M3.26367188,6.52734375 C5.06614808,6.52734375 6.52734375,5.06614808 6.52734375,3.26367188 C6.52734375,1.46119567 5.06614808,0 3.26367188,0 C1.46119567,0 0,1.46119567 0,3.26367188 C0,5.06614808 1.46119567,6.52734375 3.26367188,6.52734375 Z" id="Oval-91" sketch:type="MSShapeGroup"></path>
+                <path d="M14.2636719,6.52734375 C16.0661481,6.52734375 17.5273438,5.06614808 17.5273438,3.26367188 C17.5273438,1.46119567 16.0661481,0 14.2636719,0 C12.4611957,0 11,1.46119567 11,3.26367188 C11,5.06614808 12.4611957,6.52734375 14.2636719,6.52734375 Z" id="Oval-91-Copy" sketch:type="MSShapeGroup"></path>
+                <path d="M25.2636719,6.52734375 C27.0661481,6.52734375 28.5273438,5.06614808 28.5273438,3.26367188 C28.5273438,1.46119567 27.0661481,0 25.2636719,0 C23.4611957,0 22,1.46119567 22,3.26367188 C22,5.06614808 23.4611957,6.52734375 25.2636719,6.52734375 Z" id="Oval-91-Copy-2" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

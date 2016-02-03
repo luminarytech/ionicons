@@ -3,9 +3,21 @@
 
 .ionicons,
 .#{$ionicons-prefix}alert:before,
-.#{$ionicons-prefix}dumbell3:before
+.#{$ionicons-prefix}calendar:before,
+.#{$ionicons-prefix}dashboard:before,
+.#{$ionicons-prefix}dashes:before,
+.#{$ionicons-prefix}dashes-closed:before,
+.#{$ionicons-prefix}dumbell:before,
+.#{$ionicons-prefix}dumbell3:before,
+.#{$ionicons-prefix}hiking:before
 {
   @extend .ion;
 }
 .#{$ionicons-prefix}alert:before { content: $ionicon-var-alert; }
+.#{$ionicons-prefix}calendar:before { content: $ionicon-var-calendar; }
+.#{$ionicons-prefix}dashboard:before { content: $ionicon-var-dashboard; }
+.#{$ionicons-prefix}dashes:before { content: $ionicon-var-dashes; }
+.#{$ionicons-prefix}dashes-closed:before { content: $ionicon-var-dashes-closed; }
+.#{$ionicons-prefix}dumbell:before { content: $ionicon-var-dumbell; }
 .#{$ionicons-prefix}dumbell3:before { content: $ionicon-var-dumbell3; }
+.#{$ionicons-prefix}hiking:before { content: $ionicon-var-hiking; }

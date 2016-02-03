@@ -1,5 +1,5 @@
 {
-  "build_hash": "f4b4d92ec14153cdfe1b7da1d79976cc",
+  "build_hash": "671840e8e5615c8e1a08b981ad8aac9a",
   "prefix": "rc-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -9,8 +9,32 @@
       "name": "alert"
     },
     {
+      "code": "0xf103",
+      "name": "calendar"
+    },
+    {
+      "code": "0xf104",
+      "name": "dashboard"
+    },
+    {
+      "code": "0xf105",
+      "name": "dashes"
+    },
+    {
+      "code": "0xf106",
+      "name": "dashes-closed"
+    },
+    {
       "code": "0xf102",
+      "name": "dumbell"
+    },
+    {
+      "code": "0xf100",
       "name": "dumbell3"
+    },
+    {
+      "code": "0xf107",
+      "name": "hiking"
     }
   ]
 }
