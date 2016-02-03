@@ -14,7 +14,7 @@
             <g id="Oval-181-+-1446843318_swimming-Copy-2-+-1446843556_user-hiking" sketch:type="MSLayerGroup" transform="translate(3.000000, 3.000000)">
                 <g id="Oval-181-+-1446843318_swimming-Copy-2" sketch:type="MSShapeGroup">
                     <ellipse id="Oval-181" fill="url(#linearGradient-1)" cx="14.4545455" cy="14.5" rx="14.4545455" ry="14.5"></ellipse>
-                    <circle id="Oval-455" stroke="#FFFFFF" stroke-width="0.1" fill="#FFFFFF" cx="15.2000008" cy="7.19999981" r="1.5"></circle>
+                    <circle id="Oval-455" fill="#FFFFFF" cx="15.2000008" cy="7.19999981" r="1.5"></circle>
                 </g>
             </g>
         </g>
