@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AACA;;;;;;;;;;EAUE;ACRF,UASC,GARA,WAAW,ECAW,UAAU,EDChC,GAAG,EAAC,oCAAiE,EACrE,GAAG,EAAC,kPAGqF,EACzF,WAAW,EAAE,MAAM,EACnB,UAAU,EAAE,MAAM;AAGnB,sDAAK,GACH,OAAO,EAAE,YAAY,EACrB,WAAW,ECZU,UAAU,EDa/B,KAAK,EAAE,IAAI,EACX,UAAU,EAAE,MAAM,EAClB,WAAW,EAAE,MAAM,EACnB,YAAY,EAAE,MAAM,EACpB,cAAc,EAAE,IAAI,EACpB,cAAc,EAAE,IAAI,EACpB,WAAW,EAAE,CAAC,EACd,sBAAsB,EAAE,WAAW,EACnC,uBAAuB,EAAE,SAAS;;AEhBpC,gBAAiC,GAAE,OAAO,EDDtB,GAAO;;ACE3B,mBAAoC,GAAE,OAAO,EDDtB,GAAO",
+"sources": ["../scss/ionicons.scss","../scss/_ionicons-font.scss","../scss/_ionicons-variables.scss","../scss/_ionicons-icons.scss"],
+"names": [],
+"file": "ionicons.css"
+}
