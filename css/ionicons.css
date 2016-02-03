@@ -11,10 +11,10 @@
   Modified icons to fit ionicon’s grid from original.
 */
 @font-face { font-family: "Ionicons"; src: url("../fonts/ionicons.eot?v=2.0.1"); src: url("../fonts/ionicons.eot?v=2.0.1#iefix") format("embedded-opentype"), url("../fonts/ionicons.ttf?v=2.0.1") format("truetype"), url("../fonts/ionicons.woff?v=2.0.1") format("woff"), url("../fonts/ionicons.svg?v=2.0.1#Ionicons") format("svg"); font-weight: normal; font-style: normal; }
-.ion, .ionicons, .rc-alert:before, .rc-dumbell2:before { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion, .ionicons, .rc-alert:before, .rc-dumbell3:before { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .rc-alert:before { content: ""; }
 
-.rc-dumbell2:before { content: ""; }
+.rc-dumbell3:before { content: ""; }
 
 /*# sourceMappingURL=ionicons.css.map */
